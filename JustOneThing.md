@@ -1,3 +1,5 @@
+“**Hyun Min Kang**: Git and GitHub has a step learning curve”
+_Lu Xian_: Git
 **Alexis Marsh**:  First GitHub Collaboration
 **Helene Prentice**: Git and GitHub have a step learning curve
 HELP
