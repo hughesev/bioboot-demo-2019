@@ -1,3 +1,5 @@
+“**Hyun Min Kang**: Git and GitHub has a step learning curve”
+Nicole is commenting
 **Rupam Bhattacharyya**: Here goes my edit
 _Lu Xian_: Git
 **Alexis Marsh**:  First GitHub Collaboration
